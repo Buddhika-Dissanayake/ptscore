@@ -1,9 +1,15 @@
 Package: ptscore
-Title: What the Package Does (One Line, Title Case)
+Title: Statistical Analysis of Proficiency Tests Following ISO 13528
 Version: 0.0.0.9000
 Authors@R: 
-    person("First", "Last", , "first.last@example.com", role = c("aut", "cre"))
-Description: What the package does (one paragraph).
+    person("Buddhika", "Dissanayake", , "buddhi.prime@example.com",
+           role = c("aut", "cre"),
+           comment = c(ORCID = "0009-0009-1349-1746"))
+Description:  Tools for analysing proficiency testing and interlaboratory
+    comparison data using methods described in ISO 13528, including robust
+    estimators of the assigned value and standard deviation, performance
+    scores, and homogeneity and stability checks. The package is in early
+    development.
 License: MIT + file LICENSE
 Config/roxygen2/version: 8.1.0
 Encoding: UTF-8

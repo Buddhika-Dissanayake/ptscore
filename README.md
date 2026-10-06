@@ -1,25 +1,27 @@
+
 # ptscore
 
-Statistical tools for proficiency testing and interlaboratory comparisons,
-implementing methods described in ISO 13528. This package is not an official
-ISO product.
+<!-- badges: start -->
+[![Lifecycle: experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://lifecycle.r-lib.org/articles/stages.html#experimental)
+<!-- badges: end -->
 
-## Status
-
-Early development. Nothing is ready for use yet.
-
-## Planned features
-
-- Robust estimators: median and nIQR, Algorithm A, Algorithm S, Q/Hampel
-- Performance scores: z, z', zeta and En
-- Homogeneity and stability checks
-- Plots and an HTML report
+The goal of ptscore is to ...
 
 ## Installation
 
-    # install.packages("remotes")
-    remotes::install_github("Buddhika-Dissanayake/ptscore")
+You can install the development version of ptscore from [GitHub](https://github.com/) with:
 
-## Licence
+``` r
+# install.packages("pak")
+pak::pak("Buddhika-Dissanayake/ptscore")
+```
 
-MIT
+## Example
+
+This is a basic example which shows you how to solve a common problem:
+
+``` r
+library(ptscore)
+## basic example code
+```
+

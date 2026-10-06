@@ -2,7 +2,7 @@ Package: ptscore
 Title: Statistical Analysis of Proficiency Tests Following ISO 13528
 Version: 0.0.0.9000
 Authors@R: 
-    person("Buddhika", "Dissanayake", , "buddhi.prime@example.com",
+    person("Buddhika", "Dissanayake", , "buddhi.prime@gamil.com",
            role = c("aut", "cre"),
            comment = c(ORCID = "0009-0009-1349-1746"))
 Description:  Tools for analysing proficiency testing and interlaboratory

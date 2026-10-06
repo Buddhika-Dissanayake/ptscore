@@ -1,3 +1,3 @@
 # ptscore (development version)
 
-* Initial CRAN submission.
+* Initial repository setup: package skeleton, MIT license and README.
